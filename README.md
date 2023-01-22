@@ -16,7 +16,7 @@ THEN I can enter an event</br>
 WHEN I click the save button for that time block</br>
 THEN the text for that event is saved in local storage</br>
 WHEN I refresh the page</br>
-THEN the saved 
+THEN the saved</br>
 
 
 
